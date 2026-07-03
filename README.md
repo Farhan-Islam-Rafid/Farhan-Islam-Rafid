@@ -31,7 +31,15 @@ Hi! I'm **Farhan Islam Rafid**, a **Computer Science & Technology** student who 
 
 🌱 Always learning, experimenting, and improving one project at a time.
 
-    Learning never stops, and every project is a step forward.
+## 🧩 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Farhan_Islam_Rafid/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48" alt="LeetCode"/>
+</a>
+
+</div>
 
 
 ## 🧰 Tech Stack
