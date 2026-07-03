@@ -31,7 +31,7 @@ Hi! I'm **Farhan Islam Rafid**, a **Computer Science & Technology** student who 
 
 🌱 Always learning, experimenting, and improving one project at a time.
 
-    *"Learning never stops, and every project is a step forward."*
+    Learning never stops, and every project is a step forward.
 
 
 ## 🧰 Tech Stack
