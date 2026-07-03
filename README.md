@@ -9,7 +9,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FD1FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Technology+Student;Learning+Java+Every+Day;Building+Small+Projects;Solving+LeetCode;Exploring+AI+%26+ESP32" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FD1FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Technology+Student;Learning+Java+Every+Day;Building+Projects;Solving+LeetCode;Exploring+AI+%26+ESP32" />
 
 <br>
 
@@ -59,7 +59,7 @@ Hi! I'm **Farhan Islam Rafid**, a **Computer Science & Technology** student who 
 
 **LeetCode**
 
-Practicing Java & Problem Solving
+Practicing Java,c++ & Problem Solving
 
 </div>
 
