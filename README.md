@@ -19,6 +19,17 @@
 
 </div>
 
+## 👨‍💻 About Me
+
+I'm **Farhan Islam Rafid**, a **Computer Science & Technology** student passionate about **Software Development** and continuous learning.
+
+💻 I enjoy writing Java programs and building practical applications.
+
+🧩 I regularly solve LeetCode problems to improve my problem-solving skills.
+
+🤖 I'm exploring AI and ESP32 through personal projects like **Nova AI**.
+
+📚 My goal is to build a strong foundation in software engineering by learning, practicing, and creating meaningful projects.
 
 
 ## 🧰 Tech Stack
@@ -34,17 +45,7 @@
 
 </div>
 
-## 🚀 Projects
 
-| Project | Description |
-|---------|-------------|
-| 🔍 Lost & Found | Learning project built using PHP & MySQL |
-| 🤖 Nova AI | ESP32 based AI Voice Assistant |
-| ☕ Java Practice | Java programs while learning |
-| 🧩 LeetCode | Java solutions for coding practice |
-
-
----
 
 ## 📊 GitHub Streak
 
@@ -82,6 +83,11 @@
 
 <a href="mailto:rafidfarhanislam@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://wa.me/8801533477264" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="48" alt="WhatsApp" />
 </a>
 
 </div>
