@@ -21,22 +21,24 @@
 
 ## 👨‍💻 About Me
 
-I'm **Farhan Islam Rafid**, a **Computer Science & Technology** student passionate about **Software Development** and continuous learning.
+Hi! I'm **Farhan Islam Rafid**, a **Computer Science & Technology** student who enjoys turning ideas into code.
 
-💻 I enjoy writing Java programs and building practical applications.
+💻 Currently learning **Software Development** with **Java** and building practical applications.
 
-🧩 I regularly solve LeetCode problems to improve my problem-solving skills.
+🧩 Strengthening my problem-solving skills by solving **LeetCode** challenges.
 
-🤖 I'm exploring AI and ESP32 through personal projects like **Nova AI**.
+🤖 Exploring **AI**, **ESP32**, and developing personal projects like **Nova AI**.
 
-📚 My goal is to build a strong foundation in software engineering by learning, practicing, and creating meaningful projects.
+🌱 Always learning, experimenting, and improving one project at a time.
+
+    *"Learning never stops, and every project is a step forward."*
 
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,git,github,vscode,bootstrap" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,php,js,html,css,bootstrap,mysql,git,github,vscode," />
 
 <br><br>
 
