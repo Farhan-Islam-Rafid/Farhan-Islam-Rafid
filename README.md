@@ -13,10 +13,15 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Student-4FD1FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-Learner-2DD4BF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Learning-0EA5E9?style=for-the-badge"/>
+<div align="center">
 
+<img src="https://img.shields.io/badge/Computer_Science_Student-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-0891B2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Building_Projects-F59E0B?style=for-the-badge"/>
+
+</div>
 </div>
 
 ## 👨‍💻 About Me
