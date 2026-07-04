@@ -64,7 +64,7 @@ Hi! I'm **Farhan Islam Rafid**, a **Computer Science & Technology** student who 
 
 **LeetCode**
 
-Practicing Java,c++ & Problem Solving
+Practicing Java, C++ & Problem Solving
 
 </div>
 
