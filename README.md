@@ -74,7 +74,7 @@ Practicing Java, C++ & Problem Solving
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Farhan-Islam-Rafid&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=Farhan-Islam-Rafid&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=3600" />
 
 </div>
 
